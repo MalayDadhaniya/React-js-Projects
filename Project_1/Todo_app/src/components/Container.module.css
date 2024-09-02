@@ -1,0 +1,9 @@
+.container {
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 550px;
+    width: 50%;
+    margin: auto;
+    margin-top: 90px;
+    overflow-y: scroll;
+}
